@@ -1,0 +1,1 @@
+{  "name": "test-cor-integracion",  "version": "1.0.0",  "description": "Proyecto básico de JavaScript para pruebas - Hello World",  "main": "index.js",  "scripts": {    "start": "node index.js"  },  "keywords": [],  "author": "ncardozo-cor",  "license": "MIT"}
